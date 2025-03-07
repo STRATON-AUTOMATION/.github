@@ -1,3 +1,5 @@
+<img width=154 alt="ST life.augmented" src="https://github.com/straton-automation/.github/profile/SA_logo_CENTRE_grey40.png">
+
 # STRATON AUTOMATION
 
 straton, software solution for automation
